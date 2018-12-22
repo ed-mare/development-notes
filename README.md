@@ -7,3 +7,4 @@ This repository is a [wiki](https://github.com/ed-mare/development-notes/wiki) w
 - [Unix](https://github.com/ed-mare/development-notes/wiki/Unix)
 - [Docker Compose](https://github.com/ed-mare/development-notes/wiki/docker-compose)
 - [DelayedJob](https://github.com/ed-mare/development-notes/wiki/DelayedJob)
+- [Rspec](https://github.com/ed-mare/development-notes/wiki/Rspec)
